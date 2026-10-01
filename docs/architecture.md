@@ -1,7 +1,7 @@
-# Architecture & System Design — NTRO PS 26154
+# Architecture & System Design — Automated Content Transformation Platform
 
 ## 1. Executive Summary
-The NTRO Gen AI Platform for Automated Content Transformation provides an end-to-end pipeline that transforms unstructured intelligence, reports, and multimodal media into synchronized communication artefacts.
+The Gen AI Platform for Automated Content Transformation provides an end-to-end pipeline that transforms unstructured intelligence, reports, and multimodal media into synchronized communication artefacts.
 
 ```text
                          OPERATOR

@@ -1,8 +1,8 @@
-# System Architecture & Technical Blueprint — NTRO PS 26154
+# System Architecture & Technical Blueprint — Automated Content Transformation Platform
 
 ## 1. High-Level Architectural Overview
 
-The **NTRO Gen AI Platform for Automated Content Transformation** is built as a multi-tier, decoupled, event-driven micro-service pipeline. It enforces a **Canonical Fact Registry** and **Intermediate Semantic Model** between source content ingestion and parallel multi-format generation to eliminate cross-channel discrepancies and hallucinations.
+The **Automated Content Transformation Platform** is built as a multi-tier, decoupled, event-driven micro-service pipeline. It enforces a **Canonical Fact Registry** and **Intermediate Semantic Model** between source content ingestion and parallel multi-format generation to eliminate cross-channel discrepancies and hallucinations.
 
 ```mermaid
 graph TD

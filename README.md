@@ -1,12 +1,7 @@
-# NTRO Gen AI Platform for Automated Content Transformation
-**Problem Statement ID:** 26154  
-**Organization:** National Technical Research Organisation (NTRO)  
-**Title:** Gen AI Platform for Automated Content Transformation
-
----
+# Automated Content Transformation Platform
 
 ## 1. Product Overview
-The **NTRO Gen AI Platform for Automated Content Transformation** transforms a common source of information into synchronized, factually grounded, and verified communication artefacts requested by operators.
+The **Automated Content Transformation Platform** transforms a common source of information into synchronized, factually grounded, and verified communication artefacts requested by operators.
 
 Unlike simple chatbots or static prompt wrappers, this platform enforces a **Canonical Fact Registry** and **Semantic Model** layer between source analysis and transformation. The exact same canonical facts drive every communication channel, ensuring zero hallucinated discrepancies across formats.
 
